@@ -1,0 +1,12 @@
+*.zkey
+*.wtns
+*.r1cs
+*.sym
+*.wasm
+*.ptau
+*.sol
+proof.json
+public.json
+*_key.json
+*.r1cs.json
+node_modules/

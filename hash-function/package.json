@@ -1,0 +1,18 @@
+{
+  "name": "final-review-part-2",
+  "version": "1.0.0",
+  "description": "This is used for the proving sha256 in zksnarks as part of final review at nit trichy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "zksnarks"
+  ],
+  "author": "Ashutosh",
+  "license": "ISC",
+  "dependencies": {
+    "circom": "^0.5.43",
+    "crypto": "^1.0.1"
+  }
+}
